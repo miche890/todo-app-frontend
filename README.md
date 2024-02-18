@@ -1,8 +1,35 @@
-# React + Vite
+# Todo-App-Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend in React for the application for Project Management through Tasks
 
-Currently, two official plugins are available:
+## Authors
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@miche890](https://www.github.com/miche890)
+
+## Contributors
+
+<a href="https://github.com/miche890/todo-app-backend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=miche890/todo-app-backend" />
+</a>
+
+## Commands
+
+All commands are run from the root of the project, from a terminal:
+
+| Command                                | Action                                                                  |
+| :------------------------------------- | :---------------------------------------------------------------------- |
+| `npm install`                          | Install project dependencies                                           |
+| `npm run dev`                          | Start the development server                                           |
+| `npm run build`                        | Build the project for production                                       |
+| `npm run preview`                            |  Locally preview production build                 |
+| `npm run lint`                         | Lint the project code                                                  |
+
+
+## Stack
+
+- React > v18.2.0 
+- React-DOM > v18.2.0
+- @types/react > v18.2.55
+- @types/react-dom > v18.2.19
+- @vitejs/plugin-react > v4.2.1
+- vite > v5.1.0
